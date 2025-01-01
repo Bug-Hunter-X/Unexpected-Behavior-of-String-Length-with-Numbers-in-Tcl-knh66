@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in Tcl related to the `string length` command. When applied to numbers, the command unexpectedly returns 0 instead of the number of digits. The solution showcases a proper way to handle this scenario.
